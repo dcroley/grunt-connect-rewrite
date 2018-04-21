@@ -1,4 +1,4 @@
-# grunt-connect-rewrite-publish v0.2.2
+# grunt-connect-rewrite-updated v0.2.2
 
 > This plugin provides RewriteRules middleware for the Grunt Connect / Express.
 > Which could be used to redirect (rewrite internally or redirect using HTTP codes) User to the specific URL based on RegExp Rules.
