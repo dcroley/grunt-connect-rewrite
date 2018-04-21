@@ -1,7 +1,7 @@
 {
   "name": "grunt-connect-rewrite-updated",
   "description": "Provides RewriteRules middleware for the grunt connect and express.",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homepage": "https://github.com/dcroley/grunt-connect-rewrite-updated",
   "author": {
     "name": "David Croley",
