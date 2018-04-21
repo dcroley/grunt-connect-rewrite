@@ -1,4 +1,4 @@
-# grunt-connect-rewrite v0.2.1 [![Build Status](https://travis-ci.org/viart/grunt-connect-rewrite.png?branch=master)](https://travis-ci.org/viart/grunt-connect-rewrite)
+# grunt-connect-rewrite-publish v0.2.2
 
 > This plugin provides RewriteRules middleware for the Grunt Connect / Express.
 > Which could be used to redirect (rewrite internally or redirect using HTTP codes) User to the specific URL based on RegExp Rules.
@@ -8,7 +8,9 @@ In case you like this plugin it makes sense to look at [http-rewrite-middleware]
 as more flexible alternative.
 
 ## Getting Started
-This plugin requires Grunt `~0.4.1`
+This plugin requires Grunt `>=0.4.0`
+
+This is a fork of the original grunt-connect-rewrite soley to update grunt dependencies.
 
 If you haven't used [Grunt](http://gruntjs.com/) before, be sure to check out the [Getting Started](http://gruntjs.com/getting-started) guide, as it explains how to create a [Gruntfile](http://gruntjs.com/sample-gruntfile) as well as install and use Grunt plugins. Once you're familiar with that process, you may install this plugin with this command:
 
